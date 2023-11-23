@@ -1,0 +1,19 @@
+body {
+    background-color: #f5ffe0;
+  }
+  .input {
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin: 30px auto;
+  }
+  .title {
+    width: max-context;
+    border-bottom: 1px solid rgba(0, 0, 0, 128);
+    padding: 5px, 0px;
+  }
+  .table-container {
+    display: flex;
+    justify-content: center;
+  }
+  
